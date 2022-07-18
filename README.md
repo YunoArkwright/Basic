@@ -8,6 +8,11 @@
 * Hi there
     ```
     skdfjh
+<<<<<<< HEAD
+=======
+    ```
+    sdf
+>>>>>>> origin/main
     ```
     sdf
 

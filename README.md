@@ -1,23 +1,4 @@
 ## Basic
 
-* First line
+#### Experimental
 
-    ```
-    Codeblocks
-    ```
-* Hi there
-    ```
-    skdfjh
-<<<<<<< HEAD
-=======
-    ```
-    sdf
->>>>>>> origin/main
-    ```
-    sdf
-
-    `c special
-*
-*
-*
-sfdsdf

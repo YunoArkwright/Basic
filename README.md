@@ -1,23 +1,5 @@
 ## Basic
 
-* First line
+### This is training repo 
 
-    ```
-    Codeblocks
-    ```
-* Hi there
-    ```
-    skdfjh
-<<<<<<< HEAD
-=======
-    ```
-    sdf
->>>>>>> origin/main
-    ```
-    sdf
-
-    `c special
-*
-*
-*
-sfdsdf
+Java source example included.

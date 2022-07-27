@@ -29,9 +29,11 @@ public class Main {
                         "name TEXT NOT NULL," +
                         "words TEXT NOT NULL)");  
             } catch (SQLException e) {
+                System.out.println("SQL Disaster");
                 e.printStackTrace();
             }
         } catch (SQLException e) {
+            System.out.println("SQL Disaster");
             e.printStackTrace();
         }
     }
